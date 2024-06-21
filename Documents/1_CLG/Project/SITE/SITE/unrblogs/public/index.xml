@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unrblogs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on unrblogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/active---htb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/active---htb/</guid>
+      <description>Active Tags: Easy, Tj Null, Windows start Date: February 19, 2024 End Date : February 20, 2024 Status: Done&#xA;svg_tgs GPPstillStandingStrong2k18 Administrator Ticketmaster1968 Tools Nmap smbmap Nmap Scan&#xA;──(kali㉿kali)-[~/Desktop/HTB/BLocky] └─$ nmap -sV -sC 10.10.10.100 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-02-26 11:22 EST Nmap scan report for 10.10.10.100 Host is up (0.16s latency). Not shown: 982 closed tcp ports (conn-refused) PORT STATE SERVICE VERSION 53/tcp open domain Microsoft DNS 6.</description>
+    </item>
+  </channel>
+</rss>
